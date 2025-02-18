@@ -6,3 +6,10 @@ img {
     width: 60px;
     height: 60px;
 }
+
+.navbar {
+    --bs-navbar-color: rgba(var(--bs-white-rgb), 0.5);
+    --bs-navbar-active-color: rgba(var(--bs-white-rgb), 1);
+    --bs-navbar-hover-color: rgba(var(--bs-white-rgb), 1);
+    --bs-navbar-toggler-border-color: rgba(var(--bs-white-rgb), 0.5);
+}
