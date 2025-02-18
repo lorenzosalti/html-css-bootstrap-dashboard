@@ -20,6 +20,7 @@ img {
     height: 14px;
     padding: 0;
     vertical-align: middle;
+    /* border-radius: 5px; */
 }
 
 .todo-item {
